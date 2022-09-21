@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ernestdaps/63a9a2cb-cf6c-4737-b6a1-0a44fc05927c/c70a1c3f-75f2-4dee-bef0-80dacc971a11/_apis/work/boardbadge/0dfd13ab-37ce-4149-bf98-7b9eebb0a23f)](https://dev.azure.com/ernestdaps/63a9a2cb-cf6c-4737-b6a1-0a44fc05927c/_boards/board/t/c70a1c3f-75f2-4dee-bef0-80dacc971a11/Microsoft.RequirementCategory)
 # Terraform-project-3
 
 # Project Description 
